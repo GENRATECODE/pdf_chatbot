@@ -1,4 +1,4 @@
-# ________(O_O) Q&A Chatbot For PDF Document (O_O) ________
+# __(O_O) Q&A Chatbot For PDF Document (O_O) __
 
 ![Chatbot](https://miro.medium.com/v2/resize:fit:1400/0*Iy9LzhTAPht6ghwU.png)
 This Respository contain a Flet(Flutter Application) that utilizes the LangChain and Ollama (openSource LLM Model as llama2) language model to create a conversational Q&A chatbot. The chatbot is designed to answer questions about the content of PDF document
@@ -102,3 +102,10 @@ For more information, feel free to reach out!
     -Email: abhayswarnakar@gmail.com
     
 -[Linkedin](https://www.linkedin.com/in/bhayswarnakarml/)
+
+## Output
+
+![Output](images/output1.png)
+
+![bot-reply](images/final%20output.png)
+
