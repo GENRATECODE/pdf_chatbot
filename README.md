@@ -49,11 +49,11 @@ ollama pull llama2
 ```
 Run the application from your terminal with:
 ```
-flet app.py
+flet chatbot_ui.py
 ```
 or 
 ```
-python app.py
+python chatbot_ui.py
 ```
 if Upload a pdf file and ask question about its content. The chatbot will generate answers based  on the context of the PDF.
 
@@ -168,10 +168,12 @@ uilding wheel for hnswlib (pyproject.toml) ... error
 Failed to build hnswlib
 ERROR: Could not build wheels for hnswlib, which is required to install pyproject.toml-based projects
 ````
+
 Resolve this error in windows install 
 
 ```
 https://visualstudio.microsoft.com/visual-cpp-build-tools/
+```
 
 istall this package from this link
 more detail serach 
