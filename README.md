@@ -169,14 +169,14 @@ Failed to build hnswlib
 ERROR: Could not build wheels for hnswlib, which is required to install pyproject.toml-based projects
 ````
 
-Resolve this error in windows install 
+Resolve this error in the Windows install 
 
 ```
 https://visualstudio.microsoft.com/visual-cpp-build-tools/
 ```
 
-istall this package from this link
-more detail serach 
+install this package from this link
+more detail search 
 ```
 https://stackoverflow.com/questions/76592197/python-installation-of-chromadb-failing
 ```
